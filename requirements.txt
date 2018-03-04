@@ -1,0 +1,4 @@
+web3
+py-solc
+flask
+gunicorn
